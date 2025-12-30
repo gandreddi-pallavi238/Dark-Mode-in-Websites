@@ -1,4 +1,4 @@
-# Dark-Mode-in-Websites
+# 🌙 Dark Mode Website Using HTML, CSS & JavaScript
 This project demonstrates how to implement Dark Mode functionality in a website using HTML, CSS, and JavaScript. It allows users to switch between Light Mode and Dark Mode, improving accessibility and user experience.
 
 # 🚀 Features
